@@ -1,5 +1,7 @@
 # Dog Breed Classification
 
+![Cover Picture](https://storage.googleapis.com/kaggle-competitions/kaggle/3333/media/border_collies.png)
+
 An effective deep learning model based on VGG-16 and RESNET50 architectures to classify any dog image from 133 different classes of dogs. Added advantage, you can pass images of humans as well. It is intelligent enough to classify between a human and a dog as too.
 
 ## Usage
